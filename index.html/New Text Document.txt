@@ -44,7 +44,7 @@
             <p class="contact-text">Ready to upgrade your ride? Contact us today for a personalized quote.</p>
             <address>
                 <p>Email: <a href="mailto:info@knightzcustoms.co.uk">info@knightzcustoms.co.uk</a></p>
-                <p>Phone: <a href="tel:07795-163996">07795-163996</a></p>
+                <p>Phone: <a href="tel:07795163996">07795163996</a></p>
                 </address>
         </section>
     </main>
