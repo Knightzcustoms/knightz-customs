@@ -43,14 +43,14 @@
             <h2>Get in Touch</h2>
             <p class="contact-text">Ready to upgrade your ride? Contact us today for a personalized quote.</p>
             <address>
-                <p>Email: <a href="mailto:info@knightzcustoms.com">info@knightzcustoms.com</a></p>
-                <p>Phone: <a href="tel:555-123-4567">555-123-4567</a></p>
+                <p>Email: <a href="mailto:info@knightzcustoms.co.uk">info@knightzcustoms.co.uk</a></p>
+                <p>Phone: <a href="tel:07795-163996">07795-163996</a></p>
                 </address>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2025 Knightz Customs. All rights reserved.</p>
+        <p>&copy; 2023 Knightz Customs. All rights reserved.</p>
     </footer>
 </body>
 </html>
