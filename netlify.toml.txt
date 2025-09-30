@@ -1,0 +1,7 @@
+[build]
+  # Explicitly sets the directory Netlify should serve files from.
+  # Since index.html is in the root of your repo, this must be "/".
+  publish = "/" 
+  
+  # Since this is a plain HTML/CSS site, there is no build command.
+  command = ""
