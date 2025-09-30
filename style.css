@@ -25,7 +25,7 @@ header {
 }
 
 .logo {
-    max-width: 100px; /* Set a maximum width */
+    max-width: 50px; /* Set a maximum width */
     height: auto;     /* Maintain aspect ratio */
     display: block;   /* Makes it easier to center or position */
     margin: 0 auto 10px; /* Centers the image and adds space below */ 
@@ -149,3 +149,4 @@ footer {
         grid-template-columns 1fr;
     }
 }
+
