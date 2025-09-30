@@ -1,42 +1,43 @@
- Universal Reset and Fonts 
- {
-    margin 0;
-    padding 0;
-    box-sizing border-box;
+/* Universal Reset and Fonts */
+* { /* The selector for universal reset is the asterisk (*) */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-    font-family 'Poppins', sans-serif;
-    line-height 1.6;
-    background-color #0d0d0d;  Deep Black Background 
-    color #f0f0f0;  Off-White Text 
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    background-color: #0d0d0d; /* Deep Black Background */
+    color: #f0f0f0; /* Off-White Text */
 }
 
- --- Header & Navigation --- 
+/* --- Header & Navigation --- */
 header {
-    background-color #1a1a1a;
-    padding 40px 20px;
-    text-align center;
-    border-bottom 3px solid #ffd700;  Gold accent 
+    background-color: #1a1a1a;
+    padding: 40px 20px;
+    text-align: center;
+    border-bottom: 3px solid #ffd700; /* Gold accent */
 }
 
 .logo-container {
-    margin-bottom 20px;
+    margin-bottom: 20px;
 }
 
+/* CORRECTED LOGO CODE */
 .logo {
-    max-width: 50px; /* Set a maximum width */
-    height: auto;     /* Maintain aspect ratio */
-    display: block;   /* Makes it easier to center or position */
-    margin: 0 auto 10px; /* Centers the image and adds space below */ 
+    max-width: 150px; /* Adjusted to 150px for a more typical logo size */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Makes it easier to center or position */
+    margin: 0 auto 10px; /* Centers the image and adds space below */
 }
 
 header h1 {
-    font-size 2.8em;
-    font-weight 600;
-    color #ffd700;  Gold 
-    letter-spacing 2px;
-    margin-bottom 5px;
+    font-size: 2.8em;
+    font-weight: 600;
+    color: #ffd700; /* Gold */
+    letter-spacing: 2px;
+    margin-bottom: 5px;
 }
 
 header p {
@@ -149,4 +150,5 @@ footer {
         grid-template-columns 1fr;
     }
 }
+
 
